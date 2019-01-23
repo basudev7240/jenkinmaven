@@ -19,7 +19,7 @@ public class WishController {
 		
 		
 		
-		return "currently no data available";
+		return "currently no data available !";
 	}
 
 }
